@@ -1,4 +1,4 @@
-# Python Klavye ve Fare Logger
+# # Python Keylogger
 
 Bu Python programı, klavye girişlerini ve fare hareketlerini kaydederek belirli dosyalara yazan bir araçtır. **Eğitim ve farkındalık yaratma** amacıyla geliştirilmiştir. İzinsiz kullanım kesinlikle yasaktır ve etik kurallara aykırıdır.
 
